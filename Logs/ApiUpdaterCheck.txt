@@ -1,0 +1,130 @@
+[api-updater (non-obsolete-error-filter)] 2023/3/21 下午 11:20:43 : Starting C:/Program Files/Unity/Hub/Editor/2020.3.33f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1591.7449ms
+moved types parse time: 64ms
+candidates parse time : 1ms
+C# parse time         : 771ms
+candidates check time : 30ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 2023/3/25 下午 05:46:51 : Starting E:/CLASS/unity/Unity 2020.3.33f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 3912.0651ms
+moved types parse time: 124ms
+candidates parse time : 1ms
+C# parse time         : 1204ms
+candidates check time : 54ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 2023/3/25 下午 05:49:40 : Starting E:/CLASS/unity/Unity 2020.3.33f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 174.5342ms
+moved types parse time: 39ms
+candidates parse time : 1ms
+C# parse time         : 129ms
+candidates check time : 34ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2023/3/25 下午 05:50:05 : Starting E:/CLASS/unity/Unity 2020.3.33f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 69.1265ms
+moved types parse time: 51ms
+candidates parse time : 1ms
+C# parse time         : 147ms
+candidates check time : 31ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2023/3/25 下午 05:50:13 : Starting E:/CLASS/unity/Unity 2020.3.33f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 57.1549ms
+moved types parse time: 42ms
+candidates parse time : 0ms
+C# parse time         : 149ms
+candidates check time : 31ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2023/3/25 下午 11:43:10 : Starting E:/CLASS/unity/Unity 2020.3.33f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2361.382ms
+moved types parse time: 85ms
+candidates parse time : 0ms
+C# parse time         : 1125ms
+candidates check time : 100ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2023/3/26 上午 02:33:20 : Starting E:/CLASS/unity/Unity 2020.3.33f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2246.7183ms
+moved types parse time: 35ms
+candidates parse time : 1ms
+C# parse time         : 1244ms
+candidates check time : 185ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2023/3/27 上午 01:05:27 : Starting E:/CLASS/unity/Unity 2020.3.33f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2614.3828ms
+moved types parse time: 88ms
+candidates parse time : 0ms
+C# parse time         : 1317ms
+candidates check time : 58ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2023/3/27 上午 01:30:45 : Starting E:/CLASS/unity/Unity 2020.3.33f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 57.05ms
+moved types parse time: 50ms
+candidates parse time : 1ms
+C# parse time         : 160ms
+candidates check time : 32ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2023/4/5 下午 11:03:06 : Starting E:/CLASS/unity/Unity 2020.3.33f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2810.373ms
+moved types parse time: 132ms
+candidates parse time : 2ms
+C# parse time         : 1808ms
+candidates check time : 38ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2023/4/5 下午 11:07:44 : Starting E:/CLASS/unity/Unity 2020.3.33f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 51.3921ms
+moved types parse time: 43ms
+candidates parse time : 1ms
+C# parse time         : 136ms
+candidates check time : 19ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2023/4/9 上午 02:49:19 : Starting E:/CLASS/unity/Unity 2020.3.33f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2407.2516ms
+moved types parse time: 286ms
+candidates parse time : 14ms
+C# parse time         : 3117ms
+candidates check time : 28ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 2023/5/1 下午 09:51:46 : Starting E:/CLASS/unity/Unity 2020.3.33f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2723.0765ms
+moved types parse time: 125ms
+candidates parse time : 19ms
+C# parse time         : 1370ms
+candidates check time : 64ms
+console write time    : 0ms
+
